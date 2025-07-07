@@ -1,13 +1,22 @@
 import React from "react";
 
-const DribbbleSVG = () => {
+const DribbbleSVG = ({
+  fill = "",
+  width = 40,
+  height = 40,
+  onClick,
+  className,
+}) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="40"
-      height="40"
+      width={width}
+      height={height}
       enableBackground="new 0 0 100 100"
       viewBox="0 0 100 100"
+      fill={fill}
+      onClick={onClick}
+      className={className}
     >
       <path
         d="M50,2.5C23.801,2.5,2.5,23.856,2.5,50.122c2.599,63.179,92.411,63.161,95,0C97.5,23.856,76.199,2.5,50,2.5z M81.413,24.47
