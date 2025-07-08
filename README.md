@@ -35,9 +35,9 @@ import FacebookSVG from './components/FacebookSVG';
 
 | پراپ | نوع | پیش‌فرض | توضیحات |
 |------|------|---------|----------|
-| `width` | number | 24 | عرض آیکون |
-| `height` | number | 24 | ارتفاع آیکون |
-| `fill` | string | "#000000" | رنگ داخلی آیکون |
+| `width` | number | عرض پیشفرض | عرض آیکون |
+| `height` | number | ارتفاع پیش فرض | ارتفاع آیکون |
+| `fill` | string | رنگ پیش فرض | رنگ داخلی آیکون |
 | `className` | string | "" | کلاس‌های CSS اضافی |
 | `onClick` | function | null | هندلر رویداد کلیک |
 
