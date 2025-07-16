@@ -2,7 +2,11 @@
 
 این ریپوزیتوری شامل مجموعه‌ای غنی از آیکون‌های SVG و کامپوننت‌های آماده ری‌اکت برای استفاده در پروژه‌های وب و اپلیکیشن‌های شماست. در مجموع شامل **195 فایل SVG** و **57 کامپوننت JSX** می‌باشد.
 
-![SVG Collection Banner](https://via.placeholder.com/1200x400/4A154B/FFFFFF?text=SVG+Collection)
+<div align="center" style="max-width: 100%">
+
+<img src="./preview.gif" alt="preview" />
+
+</div>
 
 ## ویژگی‌های کلیدی
 
